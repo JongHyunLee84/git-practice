@@ -1,7 +1,11 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: Brenda
 coach: Grace
+=======
+
+>>>>>>> to-merge
 members:
   - Linda
   - William
